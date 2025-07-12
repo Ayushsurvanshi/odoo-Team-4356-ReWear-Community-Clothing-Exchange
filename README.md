@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<< HEAD
 Problem Statement : ReWear – Community Clothing Exchange
 
 Members : 
